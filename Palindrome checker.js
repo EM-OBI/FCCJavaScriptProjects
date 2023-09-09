@@ -14,4 +14,4 @@ function palindrome(str) {
         return false
     }
   }
-palindrome('eye')
+palindrome('nurses run')
